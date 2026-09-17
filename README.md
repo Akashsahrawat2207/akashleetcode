@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akashsahrawat2207/akashleetcode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Akashsahrawat2207/akashleetcode/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
